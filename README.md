@@ -44,3 +44,34 @@ Follow the steps below to run the project locally.
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/devempowerjs/ayushprabhakhar-neumorphism-theme-website.git
+```
+
+---
+
+🎨 **Design Approach**
+
+This project strictly follows **Neumorphism design principles**, focusing on:
+
+- Soft shadows and subtle depth
+
+- Minimalist, distraction-free UI
+
+- Clear visual hierarchy
+
+- Smooth hover and interaction feedback
+
+- Consistent spacing and rounded elements
+
+---
+
+📜 License
+
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this project with proper attribution.
+
+---
+
+👨‍💻 Developer
+Designed and Developed by Mayank Raj (devempowerjs)
+Full-Stack Web Developer • Student Innovator • Open-Source Creator | Modern Web Applications
+

@@ -72,6 +72,9 @@ You are free to use, modify, and distribute this project with proper attribution
 ---
 
 👨‍💻 Developer
+
 Designed and Developed by Mayank Raj (devempowerjs)
+
 Full-Stack Web Developer • Student Innovator • Open-Source Creator | Modern Web Applications
+
 

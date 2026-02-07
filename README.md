@@ -1,52 +1,46 @@
-# Personal Portfolio Website
+# 💼 Neumorphism Portfolio Website
 
-A modern, responsive personal portfolio website built to showcase my skills, projects, and experience as a frontend developer. The website focuses on clean design, performance, and maintainable code using a modern React + TypeScript stack.
-
-🔗 **Live Website:** [Website](https://ayushprabhakharpy.vercel.app/)
-
----
-
-## 🚀 Overview
-
-This portfolio serves as my professional online presence for recruiters and collaborators.  
-It highlights my frontend development skills, technical mindset, and ability to build scalable, production-ready web applications using modern tooling.
+A modern, clean, and professional **Neumorphism-themed personal portfolio website** designed and developed for a client.  
+The website focuses on clarity, subtle depth, and a premium user experience while maintaining excellent performance and responsiveness across all devices.
 
 ---
 
-## ✨ Features
+## ✨ Key Highlights
 
-- Clean, minimal, and professional UI
-- Fully responsive across all screen sizes
-- Built with modern frontend technologies
-- Fast load times and optimized builds
-- Maintainable and scalable codebase
-- Continuous deployment with Vercel
+- 🎨 **Neumorphism UI Design** with soft shadows and depth
+- 📱 Fully responsive (mobile, tablet, and desktop)
+- ⚡ Fast development and build process using **Vite**
+- 🧠 Strong component-based architecture
+- 🎥 Smooth and subtle animations for enhanced UX
+- ♿ Accessibility-friendly layout and typography
+- 🌍 Cross-platform compatibility (Windows, macOS, Linux)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Language:** TypeScript
-- **Framework:** React
-- **Build Tool:** Vite
-- **Styling:** CSS
-- **Markup:** HTML
-- **Deployment:** Vercel
+| Technology | Purpose |
+|----------|---------|
+| **React** | Component-based UI development |
+| **TypeScript** | Type-safe and scalable JavaScript |
+| **Tailwind CSS** | Utility-first styling |
+| **Framer Motion** | Smooth animations and transitions |
+| **Vite** | Fast build tool and dev server |
 
 ---
 
-## ⚙️ Getting Started
+## 👤 Client Profile
 
-### Prerequisites
+- **Education:** Bachelor of Computer Applications (BCA)  
+- **Institution:** GNIOT (Greater Noida Institute of Technology)  
+- **Website Type:** Personal / Professional Portfolio  
 
-- Node.js (v18 or higher recommended)
-- npm
+---
 
-### Installation
+## 🚀 Getting Started
 
+Follow the steps below to run the project locally.
+
+### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/ayushprabharkar38/ayushprabhakharportfolio.git
-cd ayushportfolio
-npm install 
-
-
+git clone https://github.com/devempowerjs/ayushprabhakhar-neumorphism-theme-website.git
